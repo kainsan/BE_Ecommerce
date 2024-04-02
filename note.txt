@@ -1,0 +1,33 @@
+user
+{
+    "status": "OK",
+    "message": "Success",
+    "data": {
+        "name": "khanh",
+        "email": "khanh36@gmail.com",
+        "password": "$2b$10$inCSamKCLQzgrO9h47b0vOnk0HZ8paqp3V68hAkc4nqLnurQtNo0u",
+        "isAdmin": false,
+        "phone": 1234567,
+        "_id": "65f5c2b5c63175e132a4936e",
+        "__v": 0
+    }
+}
+
+isAdmin
+{
+    "status": "OK",
+    "message": "Success",
+    "data": {
+        "name": "khanh",
+        "email": "khanh362tts@gmail.com",
+        "password": "$2b$10$syH8Aa0f3STWJHL57Ig8SupjKWjucLX46Ujh27IQN/3a8p52VqWYK",
+        "isAdmin": false,
+        "phone": 1234567,
+        "_id": "65f6837758dba0f36fea5952",
+        "__v": 0
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1ZjY4Mzc3NThkYmEwZjM2ZmVhNTk1MiIsImlzQWRtaW4iOnRydWUsImlhdCI6MTcxMDgxNjk1MiwiZXhwIjoxNzEwOTAzMzUyfQ.xfcI_m09iD_44E6x0LNuz_MFdxT4eQzILnirNKVWC9Y",
+    "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1ZjY4Mzc3NThkYmEwZjM2ZmVhNTk1MiIsImlzQWRtaW4iOnRydWUsImlhdCI6MTcxMDgxNjk1MiwiZXhwIjoxNzQyMzUyOTUyfQ.foSfuvYSYE-yn_LUcpdzMGHz8Ba9AVaVgda7A22XaMk"
+    }
+}
+
+accessToken = 1 day exist
